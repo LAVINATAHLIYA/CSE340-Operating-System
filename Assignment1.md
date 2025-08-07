@@ -78,4 +78,6 @@
 - **Debugging**
   - System logs
   - Kernel debuggers
- **Link for mind map ** -https://mm.tt/map/3786450406?t=keqz8vHfPZ
+
+
+  **Link for mind map ** -https://mm.tt/map/3786450406?t=keqz8vHfPZ
