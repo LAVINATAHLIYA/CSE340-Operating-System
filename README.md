@@ -1,8 +1,6 @@
 # CSE340-Operating-System
-# Operating System Concepts – Mind Maps (Chapters 1 & 2)
 
-
-## 📘 Chapters Covered
+## 📘 Assignment 1: Mind Map for following chapter
 
 1. **Chapter 1: Introduction**
    - Overview of what an operating system does
