@@ -2,7 +2,6 @@
 **Course:** Operating Systems 
 
 ##  Chapter 1: Introduction
-![Chapter 1 Mind Map](Screenshot 2025-08-07 220426.png)
 
 - **What Operating Systems Do**
   - Interface between user and hardware
@@ -33,11 +32,7 @@
  
  **Link for mind map ** -https://mm.tt/map/3786416646?t=lqNeMc4dwi
 
- ## 🧠 Chapter 2: Operating-System Structures
-
-![Chapter 2 Mind Map](chapter-2-mindmap.png)
-
-### 📚 Key Concepts
+ ## Chapter 2: Operating-System Structures
 
 - **OS Services**
   - Program execution
