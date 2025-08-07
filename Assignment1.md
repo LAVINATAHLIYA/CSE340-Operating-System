@@ -2,7 +2,7 @@
 **Course:** Operating Systems 
 
 ##  Chapter 1: Introduction
-![Chapter 2 Mind Map]()
+![Chapter 1 Mind Map](Screenshot 2025-08-07 220426.png)
 
 - **What Operating Systems Do**
   - Interface between user and hardware
