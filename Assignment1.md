@@ -31,3 +31,53 @@
 
  
  **Link for mind map ** -https://mm.tt/map/3786416646?t=lqNeMc4dwi
+
+ ## 🧠 Chapter 2: Operating-System Structures
+
+![Chapter 2 Mind Map](chapter-2-mindmap.png)
+
+### 📚 Key Concepts
+
+- **OS Services**
+  - Program execution
+  - I/O operations
+  - File management
+  - Communication
+  - Error detection
+
+- **User & OS Interface**
+  - CLI, GUI, voice/touch
+
+- **System Calls**
+  - Process, file, device control
+  - POSIX, Win32, Java API
+
+- **System Programs**
+  - File tools, compilers, system status
+
+- **Linkers & Loaders**
+  - Linking object files
+  - Loading into memory for execution
+
+- **OS-Specific Applications**
+  - Binary compatibility
+  - OS-dependent interfaces
+
+- **Design & Implementation**
+  - OS goals
+  - Mechanism vs. policy
+
+- **OS Structure Types**
+  - Monolithic
+  - Layered
+  - Microkernel
+  - Modular
+  - Hybrid
+
+- **Booting the OS**
+  - Bootstrap loader
+  - GRUB and kernel loading
+
+- **Debugging**
+  - System logs
+  - Kernel debuggers
