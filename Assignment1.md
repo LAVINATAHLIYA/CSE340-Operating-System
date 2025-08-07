@@ -30,7 +30,7 @@
   - Data protection and system integrity
 
  
- **Link for mind map ** -https://mm.tt/map/3786416646?t=lqNeMc4dwi
+ **Link for mind map** -https://mm.tt/map/3786416646?t=lqNeMc4dwi
 
  ## Chapter 2: Operating-System Structures
 
@@ -80,4 +80,4 @@
   - Kernel debuggers
 
 
-  **Link for mind map ** -https://mm.tt/map/3786450406?t=keqz8vHfPZ
+  **Link for mind map** -https://mm.tt/map/3786450406?t=keqz8vHfPZ
