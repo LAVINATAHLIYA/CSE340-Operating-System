@@ -1,6 +1,6 @@
 # CSE340-Operating-System
 
-## 📘 Assignment 1: Mind Map for following chapter
+## 📘 Assignment 1: Mind Map for following chapters
 
 1. **Chapter 1: Introduction**
    - Overview of what an operating system does
